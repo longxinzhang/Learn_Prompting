@@ -18,7 +18,7 @@
     "message": "🧪 提示的应用"
   },
   "sidebar.tutorialSidebar.category.🧪 Applied Prompting.link.generated-index.description": {
-    "message": "社区成员编写的有关提示工程的攻略。"
+    "message": "社区成员编写的有关提示工程攻略。"
   },
   "sidebar.tutorialSidebar.category.🚀 Advanced Applications": {
     "message": "🚀 高级应用"
@@ -36,31 +36,31 @@
     "message": "🖼️ 图片提示词"
   },
   "sidebar.tutorialSidebar.category.🖼️ Image Prompting.link.generated-index.description": {
-    "message": "从文本到图像的提示工程，比如 DALLE 和 Stable Diffusion!"
+    "message": "从文本到图像的提示工程，如 DALLE 和 Stable Diffusion!"
   },
   "sidebar.tutorialSidebar.category.🔓 Prompt Hacking": {
     "message": "🔓 破解提示"
   },
   "sidebar.tutorialSidebar.category.🔓 Prompt Hacking.link.generated-index.description": {
-    "message": "针对提示工程的破解技巧"
+    "message": "针对提示词工程的破解技巧"
   },
   "sidebar.tutorialSidebar.category.🔨 Tooling": {
     "message": "🔨 Tooling"
   },
   "sidebar.tutorialSidebar.category.🔨 Tooling.link.generated-index.description": {
-    "message": "Prompt Engineering IDEs."
+    "message": "提示词工程IDEs."
   },
   "sidebar.tutorialSidebar.category.Prompt Engineering IDEs": {
-    "message": "Prompt Engineering IDEs"
+    "message": "提示词工程IDEs"
   },
   "sidebar.tutorialSidebar.category.Prompt Engineering IDEs.link.generated-index.description": {
-    "message": "Prompt Engineering IDEs."
+    "message": "提示词工程IDEs."
   },
   "sidebar.tutorialSidebar.category.💪 Prompt Tuning": {
-    "message": "💪 提示微调"
+    "message": "💪 提示词微调"
   },
   "sidebar.tutorialSidebar.category.💪 Prompt Tuning.link.generated-index.description": {
-    "message": "使用梯度对提示工程进行微调"
+    "message": "使用梯度对提示词工程进行微调"
   },
   "sidebar.tutorialSidebar.category.🎲 Miscellaneous": {
     "message": "🎲 杂项"
